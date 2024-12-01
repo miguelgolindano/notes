@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f8625d5c93ff4ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc329a5c50dadb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c217601f10149f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90ae13afe6f1c1ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0d0599d9448448d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "486ef9aa24f74c2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5bb1ebebf1c4d308",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1256eaa133966ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32ab92602a99b8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad2738b8a2c02a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4d030a2dfe2faf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ff941bae8aa05a5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ec27b5d08b37edae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34b453fe34ece6b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a6c217601f10149f",
+  "lastOpenFiles": [
+    "index.html",
+    "CSS/CSS reference.md",
+    "Javascript/breakpoints and logpoints.md",
+    "Javascript/Debug JavaScript.md",
+    "DevTools/Devtools.md",
+    "HTML",
+    "CSS",
+    "DevTools",
+    "Javascript",
+    "git/dsfsdf.md",
+    "notas/Untitled.md",
+    "git/sdfsf.md",
+    "git",
+    "notas/miguel.md",
+    "notas/notass.md",
+    "Welcome.md",
+    "notas"
+  ]
+}
