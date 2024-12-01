@@ -11,10 +11,14 @@
             "id": "a6c217601f10149f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HTML/html notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "html notes"
             }
           }
         ]
@@ -158,6 +162,9 @@
   },
   "active": "a6c217601f10149f",
   "lastOpenFiles": [
+    "Javascript/global objects.md",
+    "HTML/html notes.md",
+    "prueba",
     "index.html",
     "CSS/CSS reference.md",
     "Javascript/breakpoints and logpoints.md",
