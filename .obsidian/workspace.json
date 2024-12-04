@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/functions/arrow function.md",
+                "file": "Javascript/errors/ReferenceError.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "arrow function"
+              "title": "ReferenceError"
             }
           }
         ]
@@ -160,11 +160,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "486ef9aa24f74c2f",
+  "active": "a6c217601f10149f",
   "lastOpenFiles": [
+    "Javascript/functions/arrow function.md",
+    "Javascript/errors/ReferenceError.md",
+    "Javascript/errors",
     "Javascript/functions",
     "HTML/html notes.md",
-    "Javascript/functions/arrow function.md",
     "Javascript/global objects.md",
     "prueba",
     "index.html",
