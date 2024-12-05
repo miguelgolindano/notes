@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/errors/ReferenceError.md",
+                "file": "Node/how to open the node console.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReferenceError"
+              "title": "how to open the node console"
             }
           }
         ]
@@ -162,8 +162,10 @@
   },
   "active": "a6c217601f10149f",
   "lastOpenFiles": [
-    "Javascript/functions/arrow function.md",
     "Javascript/errors/ReferenceError.md",
+    "Node/how to open the node console.md",
+    "Node",
+    "Javascript/functions/arrow function.md",
     "Javascript/errors",
     "Javascript/functions",
     "HTML/html notes.md",
@@ -184,7 +186,6 @@
     "git",
     "notas/miguel.md",
     "notas/notass.md",
-    "Welcome.md",
-    "notas"
+    "Welcome.md"
   ]
 }
