@@ -9,4 +9,4 @@ const removeFromArray = function(array, ...toRemove) {
 };
 ```
 
-this work using an arrow function and a forEach loop iterating in every item of the array and checking if the ...args not are in the array with the `if (!toRemove.includes(item)` then if is indeen not in the array create a new array with push
+this work using an arrow function and a forEach loop iterating in every item of the array and checking if the ...args not are in the array with the `if (!toRemove.includes(item)` then if is indeed not in the array create a new array with push
