@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Arrays/delete elements from an array.md",
+                "file": "Javascript/input elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "delete elements from an array"
+              "title": "input elements"
             }
           }
         ]
@@ -160,11 +160,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "486ef9aa24f74c2f",
+  "active": "a6c217601f10149f",
   "lastOpenFiles": [
+    "Javascript/Arrays/delete elements from an array.md",
+    "Javascript/input elements.md",
     "Javascript/Arrays",
     "Javascript/global objects.md",
-    "Javascript/Arrays/delete elements from an array.md",
     "Node/how to open the node console.md",
     "Javascript/Errors/ReferenceError.md",
     "Node",
@@ -185,7 +186,6 @@
     "git/dsfsdf.md",
     "notas/Untitled.md",
     "git/sdfsf.md",
-    "git",
     "notas/miguel.md",
     "notas/notass.md",
     "Welcome.md"
